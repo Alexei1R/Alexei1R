@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Alexei1R
-- 👀 I’m interested in Embeded porgraming and Game engine development
-- 🌱 I’m currently learning AVR 
+- 👀 I’m interested in Embeded porgraming and Game engine development ,Autonomus car development
+ 
 
 - 📫 How to reach me Gmail : alexei.rusu.2002@gmail.com
 
